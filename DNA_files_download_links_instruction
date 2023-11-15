@@ -1,5 +1,7 @@
 Download the C. reinhardtii files from these links:
 
+Put the files in a folder and change the working directory in the notebook to this folder!
+
 RNA-seq data:
 https://ftp.ncbi.nlm.nih.gov/geo/series/GSE191nnn/GSE191218/suppl/GSE191218%5FFPKM%5Fmatrix%2Etxt%2Egz
 
