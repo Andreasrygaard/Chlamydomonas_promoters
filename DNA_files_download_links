@@ -1,0 +1,13 @@
+Download the C. reinhardtii files from these links:
+
+RNA-seq data:
+https://ftp.ncbi.nlm.nih.gov/geo/series/GSE191nnn/GSE191218/suppl/GSE191218%5FFPKM%5Fmatrix%2Etxt%2Egz
+
+cdna file:
+https://ftp.ebi.ac.uk/ensemblgenomes/pub/release-57/plants/fasta/chlamydomonas_reinhardtii/cdna/Chlamydomonas_reinhardtii.Chlamydomonas_reinhardtii_v5.5.cdna.all.fa.gz
+
+cds file:
+https://ftp.ebi.ac.uk/ensemblgenomes/pub/release-57/plants/fasta/chlamydomonas_reinhardtii/cds/Chlamydomonas_reinhardtii.Chlamydomonas_reinhardtii_v5.5.cds.all.fa.gz
+
+Full genome:
+https://ftp.ebi.ac.uk/ensemblgenomes/pub/release-57/plants/fasta/chlamydomonas_reinhardtii/dna/Chlamydomonas_reinhardtii.Chlamydomonas_reinhardtii_v5.5.dna.toplevel.fa.gz
